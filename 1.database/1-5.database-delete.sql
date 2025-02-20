@@ -1,0 +1,4 @@
+-- 데이터 베이스 삭제
+SELECT * FROM kimi;
+
+DROP DATABASE KORAS02;
